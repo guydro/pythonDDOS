@@ -8,12 +8,13 @@ To set up the c&c server on a new machine:
 
 
 
-	To set up a new client (aka 'infected computet'):
+To set up a new client (aka 'infected computet'):
 	A. Copy the "client" folder to the desired computer.
 	B. On "virusServer.py":
 		1. Change the PORT parameter to the parameter you wish to use for your client.
 		2. Change the server_host and server_port to the c&c's HOST and PORT parameters respectively.
 	C. Set the "number_of_logical_processors" parameter to the number of logical processors you want the client to allocate to an attack.
+
 
 To launch an attack:
 	A. Activate the c&c server by running "commandAndControl.py"
