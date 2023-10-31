@@ -1,4 +1,4 @@
-The followoing are instructions for setting up the DDOS system:
+The following are instructions for setting up the DDOS system:
 
 To set up the c&c server on a new machine:
 	A. Copy the "c&c server" folder to the desired computer.
